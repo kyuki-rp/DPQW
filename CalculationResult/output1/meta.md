@@ -1,10 +1,8 @@
 ### 処理条件
 - 5×5格子上のQW
 - source: 0,0  
-  偶数step: 1  
-  奇数step: 1  
+  入力値: 1, 0, 1, 0, ...  
 - sink: 4,6
-
 
 ### 処理結果
 |   step | image_path   | image             |
