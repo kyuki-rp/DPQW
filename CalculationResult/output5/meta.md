@@ -3,6 +3,7 @@
 - source: 0,0  
   入力値: 1, 0, -1, 0, ...  
 - sink: 4,6
+- sink直前(4,5)コイン変更: θ = π/3
 
 ### 処理結果
 |   step | image_path   | image             |
