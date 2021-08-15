@@ -1,8 +1,8 @@
 ### 処理条件
 - 5×5格子上のQW
-- source: 0,0
-  偶数step: 1
-  奇数step: 1
+- source: 0,0  
+  偶数step: 1  
+  奇数step: 1  
 - sink: 4,6
 
 
